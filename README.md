@@ -1,19 +1,110 @@
-# DSA Problem Solving (C++)
+# Data Structures & Algorithms in C++
 
-This repository contains my daily practice of Data Structures and Algorithms in C++.
+A curated and well-structured collection of **Data Structures and Algorithms (DSA)** problems solved in **C++**, aimed at strengthening problem-solving skills and preparing for technical interviews.
 
-## Topics Covered
+---
+
+## 🛠 Tech Stack
+- **Language:** C++
+- **Core Skills:** Data Structures, Algorithms, Problem Solving
+- **Practice Platforms:** GeeksforGeeks, LeetCode
+
+---
+
+## 📚 Topics Covered
 - Arrays
 - Strings
 - Linked List
-- Stack
-- Queue
+- Stack & Queue
 - Trees
 - Graphs
-- Dynamic Programming
+- Dynamic Programming (in progress)
 
-## Language
-- C++
+---
 
-## Goal
-To improve problem-solving skills and prepare for technical interviews.
+## 🗂 Repository Structure
+
+DSA/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+└── README.md
+
+
+---
+
+## 🧠 Coding Standards
+- Clean, readable, and well-commented C++ code
+- Optimal time and space complexity wherever possible
+- Each file includes:
+  - Problem description
+  - Approach
+  - Time & space complexity
+- `main()` function is added **only for demonstration/testing purposes**
+
+---
+
+## 📑 Problem Index
+
+### 🟦 Arrays
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Second Largest Element in an Array | Single traversal | O(n) | O(1) | [View](Arrays/second_largest.cpp) |
+
+
+---
+
+### 🟩 Strings
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Reverse String | Two pointers | O(n) | O(1) | [View](Strings/reverse_string.cpp) |
+
+---
+
+### 🟨 Linked List
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Detect Cycle in Linked List | Floyd’s Cycle Detection | O(n) | O(1) | [View](LinkedList/detect_cycle.cpp) |
+
+---
+
+### 🟥 Stack & Queue
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Valid Parentheses | Stack-based validation | O(n) | O(n) | [View](Stack/valid_parentheses.cpp) |
+
+---
+
+### 🟪 Trees
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Inorder Traversal | Recursive traversal | O(n) | O(h) | [View](Trees/inorder_traversal.cpp) |
+
+---
+
+## 🚀 How to Run
+
+```bash
+g++ filename.cpp -o filename
+./filename
+
+## 📈 Progress & Consistency
+
+*Repository is updated regularly
+
+*Problems are added topic-wise
+
+*Focus on quality, clarity, and consistency over quantity
+
+## ⚠️ Disclaimer
+*All solutions are written for learning and practice purposes
+
+*Problem statements and core logic are inspired by standard platforms such as GeeksforGeeks and LeetCode
+
+## 👤 Author
+Abhinav Narayan
+DSA | C++ | Problem Solving
