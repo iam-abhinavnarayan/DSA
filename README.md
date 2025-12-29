@@ -24,15 +24,15 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 
 ## 🗂 Repository Structure
 
-DSA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-└── README.md
+    DSA/
+    ├── Arrays/
+    ├── Strings/
+    ├── LinkedList/
+    ├── Stack/
+    ├── Queue/
+    ├── Trees/
+    ├── Graphs/
+    └── README.md
 
 
 ---
@@ -92,7 +92,7 @@ DSA/
 g++ filename.cpp -o filename
 ./filename
 
-## 📈 Progress & Consistency
+📈 Progress & Consistency
 
 *Repository is updated regularly
 
@@ -100,11 +100,11 @@ g++ filename.cpp -o filename
 
 *Focus on quality, clarity, and consistency over quantity
 
-## ⚠️ Disclaimer
+ ⚠️ Disclaimer
 *All solutions are written for learning and practice purposes
 
 *Problem statements and core logic are inspired by standard platforms such as GeeksforGeeks and LeetCode
 
-## 👤 Author
+👤 Author
 Abhinav Narayan
 DSA | C++ | Problem Solving
