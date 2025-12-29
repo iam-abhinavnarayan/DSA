@@ -1,4 +1,4 @@
-# DSA Practice (C++)
+# DSA Problem Solving (C++)
 
 This repository contains my daily practice of Data Structures and Algorithms in C++.
 
