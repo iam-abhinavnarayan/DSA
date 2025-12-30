@@ -54,6 +54,8 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
 | 1 | Second Largest Element in an Array | Single traversal | O(n) | O(1) | [View](Arrays/second_largest.cpp) |
+| 2 | Two Sum | Single traversal | O(n) | O(1) | [View](Arrays/two_sum.cpp) |
+
 
 
 ---
