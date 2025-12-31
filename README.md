@@ -62,6 +62,12 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 
 
 ---
+### 🟧 Two Pointer Technique
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Count Pairs Whose Sum is less than Target | Two pointers | O(n log n) | O(1) | [View](TwoPointerTechnique/Count_Pairs_whose_sum_is_less_than_target.cpp) |
+
+---
 
 ### 🟩 Strings
 | # | Problem | Approach | Time | Space | Solution |
