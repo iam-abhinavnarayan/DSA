@@ -75,7 +75,7 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 ### 🟫Prefix Sum
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
-| 1 | Equilibrium Point | Prefix Sum | O(n) | O(1) | [View](PrifixSum/Equilibrium_Point.cpp) |
+| 1 | Equilibrium Point | Prefix Sum | O(n) | O(1) | [View](PrefixSum/Equilibrium_Point.cpp) |
 
 
 ---
