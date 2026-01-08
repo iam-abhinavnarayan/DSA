@@ -76,6 +76,8 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
 | 1 | Equilibrium Point | Prefix Sum | O(n) | O(1) | [View](PrefixSum/Equilibrium_Point.cpp) |
+| 2 | Longest Subarray with Sum K | Prefix Sum | O(n) | O(1) | [View](PrefixSum/longest_subarray.cpp) |
+
 
 
 ---
