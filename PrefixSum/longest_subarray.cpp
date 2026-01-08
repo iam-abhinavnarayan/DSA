@@ -1,5 +1,5 @@
 // C++ program to find the length of the longest
-// subarray having sum k using nested loop
+// subarray having sum k 
 #include <iostream>
 #include <vector>
 #include <unordered_map>
