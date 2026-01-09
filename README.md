@@ -81,8 +81,8 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | 4 | Product of Array Except Self | Prefix–Suffix | O(n) | O(n) | [View](PrefixSum/Product_array_puzzle.cpp) |
 
 
-
 ---
+
 
 ### 🟩 Strings
 | # | Problem | Approach | Time | Space | Solution |
@@ -94,7 +94,8 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 ### 🟨 Linked List
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
-| 1 | Detect Cycle in Linked List | Floyd’s Cycle Detection | O(n) | O(1) | [View](LinkedList/detect_cycle.cpp) |
+| 1 | Reverse a linked list | Iterative | O(n) | O(1) | [View](LinkedList/Reverse_a_linked_list.cpp) |
+
 
 ---
 
