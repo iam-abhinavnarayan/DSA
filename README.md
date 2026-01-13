@@ -58,6 +58,9 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | 3 | Move All Zeroes To End | Single traversal | O(n) | O(1) | [View](Arrays/move_all_zeroes_to_end.cpp) |
 | 4 | Reverse an Array | Two-pointer | O(n) | O(1) | [View](Arrays/reverse_an_array.cpp) |
 | 5 | Rotate Array | Reversal | O(n) | O(1) | [View](Arrays/rotate_array.cpp) |
+| 6 | Array Duplicates | Floyd’s Cycle Detection | O(n) | O(1) | [View](Arrays/findDuplicate.cpp) |
+
+
 
 
 
