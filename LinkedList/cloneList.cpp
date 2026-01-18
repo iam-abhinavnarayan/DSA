@@ -1,3 +1,7 @@
+// Given a linked list with next and random pointers, create an identical deep copy.
+// Both next and random pointers in the new list must point only to newly created nodes.
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
