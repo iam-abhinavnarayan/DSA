@@ -91,8 +91,8 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 ### 🟩 Strings
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
-| 1 | Reverse String | Two pointers | O(n) | O(1) | [View](Strings/reverse_string.cpp) |
-| 1 | Group Anagrams   | Hashmap (sorting as key) | O(n·k log k) | O(n·k) | [View](Strings/groupAnagram.cpp) |
+| 1 | NonRepeating | Frequency-index array | O(n) | O(1) | [View](String/NonRepeating.cpp) |
+| 1 | Group Anagrams   | Hashmap (sorting as key) | O(n·k log k) | O(n·k) | [View](String/groupAnagram.cpp) |
 
 ---
 
