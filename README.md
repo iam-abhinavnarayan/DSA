@@ -99,7 +99,7 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
 | 1 | Reverse a linked list | Iterative | O(n) | O(1) | [View](LinkedList/Reverse_a_linked_list.cpp) |
-| 2 | Remove Linked List Elements | Traversal | O(n) | O(1) | [View](LinkedList/RemoveElement.cppcd) |
+| 2 | Remove Linked List Elements | Traversal | O(n) | O(1) | [View](LinkedList/RemoveElement.cpp) |
 
 
 ---
