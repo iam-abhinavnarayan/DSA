@@ -115,7 +115,7 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 ### 🟪 Trees
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
-| 1 | Inorder Traversal | Recursive traversal | O(n) | O(h) | [View](Trees/inorder_traversal.cpp) |
+| 1 | Same Tree | BFS | O(n) | O(n) | [View](Trees/SameTree.cpp) |
 
 ---
 
