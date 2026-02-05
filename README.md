@@ -105,6 +105,14 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 
 ---
 
+### 🟪 Heap
+| # | Problem | Approach | Time | Space | Solution |
+|---|--------|----------|------|-------|----------|
+| 1 | Top K Frequent Elements | Heap | O(nlogn) | O(n) | [View](Heap/TopKFrequent.cpp) |
+
+
+---
+
 ### 🟥 Stack & Queue
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
