@@ -124,6 +124,7 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
 | 1 | Same Tree | BFS | O(n) | O(n) | [View](Tree/SameTree.cpp) |
+| 2 | Invert Binary Tree | Recursion | O(n) | O(h) | [View](Tree/InvertBinaryTree.cpp) |
 
 ---
 
