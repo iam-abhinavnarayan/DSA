@@ -119,7 +119,13 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | 1 | Valid Parentheses | Stack-based validation | O(n) | O(n) | [View](Stack/valid_parentheses.cpp) |
 
 ---
+### 🟪 Recursion And Backtracking
+| # | Problem | Approach | Time | Space | Solution |
+|---|---------|----------|------|-------|----------|
+| 1 | Pow(x, n) | Recursion (Divide & Conquer) | O(log n) | O(log n) | [View](RecursionAndBacktracking/pow.cpp) |
+| 2 | Subsets | Backtracking | O(n × 2ⁿ) | O(n) | [View](RecursionAndBacktracking/subset.cpp) |
 
+---
 ### 🟪 Trees
 | # | Problem | Approach | Time | Space | Solution |
 |---|--------|----------|------|-------|----------|
