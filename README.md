@@ -102,10 +102,13 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 | 1 | Reverse a linked list | Iterative | O(n) | O(1) | [View](LinkedList/Reverse_a_linked_list.cpp) |
 | 2 | Remove Linked List Elements | Traversal | O(n) | O(1) | [View](LinkedList/RemoveElement.cpp) |
 | 3 | Detect Loop | Two Pointers (Floyd's Cycle Detection) | O(n) | O(1) | [View](LinkedList/Detect_Loop.cpp) |
-| 4 | Clone ist | Interleaving Nodes (In-place Deep Copy) | O(n) | O(1) | [View](LinkedList/cloneList.cpp) |
+| 4 | Clone List | Interleaving Nodes (In-place Deep Copy) | O(n) | O(1) | [View](LinkedList/cloneList.cpp) |
 | 5 | Add Num | Reverse + Simulation | O(N + M) | O(max(N, M)) | [View](LinkedList/addNum.cpp) |
 | 6 | Loop Entry Point | Floyd's Cycle Detection | O(n) | O(1) | [View](LinkedList/loop_entry_point.cpp) |
-
+| 7 | k-Group | Recursion + In-place Reversal | O(n) | O(n/k) | [View](LinkedList/kgroup.cpp) |
+| 8 | Merge Two Linked List | Recursion    | O(N + M) | O(N + M) | [View](LinkedList/merge2LL.cpp) |
+| 9 | Remove Loop | Floyd's Cycle Detection    | O(N) | O(1) | [View](LinkedList/Remove_loop.cpp) |
+| 10 | Rotate | Circular Linked List    | O(N) | O(1) | [View](LinkedList/Rotate.cpp) |
 
 ---
 
