@@ -101,6 +101,10 @@ A curated and well-structured collection of **Data Structures and Algorithms (DS
 |---|--------|----------|------|-------|----------|
 | 1 | Reverse a linked list | Iterative | O(n) | O(1) | [View](LinkedList/Reverse_a_linked_list.cpp) |
 | 2 | Remove Linked List Elements | Traversal | O(n) | O(1) | [View](LinkedList/RemoveElement.cpp) |
+| 3 | Detect Loop | Two Pointers (Floyd's Cycle Detection) | O(n) | O(1) | [View](LinkedList/Detect_Loop.cpp) |
+| 4 | Clone ist | Interleaving Nodes (In-place Deep Copy) | O(n) | O(1) | [View](LinkedList/cloneList.cpp) |
+| 5 | Add Num | Reverse + Simulation | O(N + M) | O(max(N, M)) | [View](LinkedList/addNum.cpp) |
+| 6 | Loop Entry Point | Floyd's Cycle Detection | O(n) | O(1) | [View](LinkedList/loop_entry_point.cpp) |
 
 
 ---
